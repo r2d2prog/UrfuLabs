@@ -1,0 +1,15 @@
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.Form1.resources
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.Properties.Resources.resources
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.csproj.GenerateResource.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.csproj.CopyComplete
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\Ikosahedron.exe.config
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.exe
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Ikosahedron.pdb
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\Ikosahedron.exe
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\Ikosahedron.pdb
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\OpenTK.Compatibility.dll
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\OpenTK.dll
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\OpenTK.GLControl.dll

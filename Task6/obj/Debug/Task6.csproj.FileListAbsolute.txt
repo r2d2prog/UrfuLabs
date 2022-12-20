@@ -1,0 +1,27 @@
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.Form1.resources
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.csproj.CopyComplete
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\Task6.exe.config
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.exe
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\obj\Debug\Task6.pdb
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\Task6.exe
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\Task6.pdb
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\OpenTK.Compatibility.dll
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\OpenTK.dll
+C:\Users\abaku\source\repos\Ikosahedron\Ikosahedron\OpenTK.GLControl.dll
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.csproj.SuggestedBindingRedirects.cache
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.Form1.resources
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.csproj.CopyComplete
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\Task6.exe.config
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.exe
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\obj\Debug\Task6.pdb
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\Task6.exe
+D:\Data\Education\3 курс\Компьютерная графика\6\Task6\Task6\Task6.pdb
