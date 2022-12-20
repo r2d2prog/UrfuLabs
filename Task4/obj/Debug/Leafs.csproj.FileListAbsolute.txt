@@ -1,0 +1,22 @@
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\bin\Debug\Leafs.exe.config
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\bin\Debug\Leafs.exe
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\bin\Debug\Leafs.pdb
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.Form1.resources
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.Properties.Resources.resources
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.csproj.GenerateResource.cache
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.exe
+C:\Users\abaku\source\repos\Fractals\Leafs\Leafs\obj\Debug\Leafs.pdb
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\bin\Debug\Leafs.exe.config
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\bin\Debug\Leafs.exe
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\bin\Debug\Leafs.pdb
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.csproj.AssemblyReference.cache
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.csproj.SuggestedBindingRedirects.cache
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.Form1.resources
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.Properties.Resources.resources
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.csproj.GenerateResource.cache
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.csproj.CoreCompileInputs.cache
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.exe
+D:\Data\Education\3 курс\Компьютерная графика\4\Leafs\Leafs\obj\Debug\Leafs.pdb
