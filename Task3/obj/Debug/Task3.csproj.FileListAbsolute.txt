@@ -1,0 +1,11 @@
+C:\Users\abaku\source\repos\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\abaku\source\repos\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\abaku\source\repos\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\abaku\source\repos\Task3\Task3\obj\Debug\Task3.pdb
