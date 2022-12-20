@@ -1,0 +1,15 @@
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.Form1.resources
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.csproj.CopyComplete
+C:\Users\abaku\source\repos\Task7\Task7\Task7.exe.config
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\abaku\source\repos\Task7\Task7\obj\Debug\Task7.pdb
+C:\Users\abaku\source\repos\Task7\Task7\Task7.exe
+C:\Users\abaku\source\repos\Task7\Task7\Task7.pdb
+C:\Users\abaku\source\repos\Task7\Task7\OpenTK.Compatibility.dll
+C:\Users\abaku\source\repos\Task7\Task7\OpenTK.dll
+C:\Users\abaku\source\repos\Task7\Task7\OpenTK.GLControl.dll
