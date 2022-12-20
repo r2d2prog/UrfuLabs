@@ -1,0 +1,22 @@
+C:\Users\abaku\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\abaku\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\abaku\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\abaku\source\repos\Task1\Task1\obj\Debug\Task1.Form1.resources
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\bin\Debug\Task1.exe.config
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\bin\Debug\Task1.exe
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\bin\Debug\Task1.pdb
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.Form1.resources
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.exe
+D:\Data\Education\3 курс\Компьютерная графика\1\Task1\Task1\obj\Debug\Task1.pdb
